@@ -69,3 +69,8 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+#Theme and Title
+theme: jekyll-theme-minimal
+title: salviija's homepage
+description: a github site created for my various endeavours.
