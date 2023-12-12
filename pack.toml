@@ -1,0 +1,13 @@
+name = "Allison and Nick's Survival"
+author = "salviija"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d670143c1d696569ceba2747d51aa9c571db51042b13e07312909284ff5b7470"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"
