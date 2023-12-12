@@ -1,0 +1,13 @@
+name = "Cuisine Delight"
+filename = "cuisinedelight-1.1.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f37897fdbfb4e815e57383fd8522819d263211bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4871143
+project-id = 893541
