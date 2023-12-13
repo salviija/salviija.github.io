@@ -1154,15 +1154,15 @@ hash = "576aaa7d0e6ce7668bea0be54a8d8dcfe03722d2f05eb738e28c3bc6dc3d31e5"
 
 [[files]]
 file = "config/coldsweat/item_settings.toml"
-hash = "1890f029532e8da8eede1ba152b5b9b18d6236d515d079c7feddc7de02229b10"
+hash = "e6480b0b9d695fd4150ed69d7552a9f2877ac7d726300ee2ee8d32061a0ee7c4"
 
 [[files]]
 file = "config/coldsweat/main.toml"
-hash = "2cc62a649f324ecfa7197e1cf7bdc18c831710c9ab22e443267dee301bc65a9e"
+hash = "47958f5074e923124a4dc274a755578088c18f80ab71888590bbd3ae51160d6e"
 
 [[files]]
 file = "config/coldsweat/world_settings.toml"
-hash = "df7d98a129f5dde01059568e2be71069ad72959f80bec2adff770d8d7254ca24"
+hash = "c29c0a919b543ae2a74250efb06ece031a788c71467c57f99e9fa26a2d0a789d"
 
 [[files]]
 file = "config/connector.json"
@@ -1278,7 +1278,7 @@ hash = "4fdf07c3f2c3887852ff0acc0f8e40b4d7a5d36a20a2e05d3d5a7cf0a455dfc5"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "106df8ca93d987bee1848befd490709fc3001d89f0cc37c6292fe5759e187fb2"
+hash = "86527dc6d88f7075f6cfdff281cbdcc803b11cc25c5525c42ac032a0d649673b"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -1410,7 +1410,7 @@ hash = "931e946f1db76706bdfae3ba09dfd9fc2d3234352f95f56ad6714bad7fd84572"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "10cc599af5053a01dab835a93fd90a80977e5d4b75b45c042a69ba5a87e58a03"
+hash = "e6a6d24d304107e7fd3fc2a36d3f3fad4984ab3df417eef648ca969d4ff18b73"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -1454,7 +1454,7 @@ hash = "d747a93ff5a89c8182f302ee8a85acb3a5a25ac17287396c1b9188c2d0a53864"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-hash = "f2b4aefd45a59514624e41ccaa57aa7bdb372b60c23d9139e02cb0973c02f2c5"
+hash = "1b37848371bbd087b96d72bef738f3fa9e13f27b930ab59209c6dd0f96611067"
 
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
@@ -1518,11 +1518,11 @@ hash = "f3d12cba36d5fa22e2bad33111ee966774fab77e90d0b2116e9efba98188d191"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "a40cb8878fd0ff9d5f79c39f61d3e2a04237f48ce39f589890f54bba230fc1b8"
+hash = "133b8384565308ebd30dc30d663f9edfea376b70580639649c04f0fbdefa03b5"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "699a8502b27279905d49b354fc7994ecaae0f67289d6ba2e70774012e34877da"
+hash = "c98ab3eaf78f908bc927fac2730a3d5c33e0080c60dca7776d9f10a981675db8"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1598,7 +1598,7 @@ hash = "a6f7ce3dd9c397395c9a1ba50e86e8bd84a71ac4dd3fc0cac15fb23e4c3c1b7f"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1973,6 +1973,10 @@ file = "mods/.connector/trinkets-3.8.0_mapped_srg_1.20.1.jar.input"
 hash = "a96900a7b6e82b9255cca8c82a5a6f1487c2478852dda5c5f4a00175a40d1fb7"
 
 [[files]]
+file = "mods/Kambrik-6.1.0+1.20.1-forge.jar"
+hash = "a74da3b82e74c8a121c378385c2a3377cd2b9a3c3e36eb1483907e813966a229"
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "802a3d250a29992bc05fc6b549b2eda2d8239ea6bf7dbcd5e651fa32f2552b8e"
 metafile = true
@@ -2229,6 +2233,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a7edbd795ba0ff382afe03c0026184db8d1a525df4cbac2111dedd86afae4e7a"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "2c4513f46e874f71f24a803b69f7299b0b42d4a1dfded10cbd81ce60a8acc88b"
 metafile = true
 
 [[files]]
@@ -2576,4 +2585,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0d34d8f305e93098e8de5cb6dbbb2252a8880fbf91f871c1877ebb4e88c21c6f"
+hash = "863ec1ad62c44b71d26b334771d791a41c59482c2440803730832c715e3d36f3"
