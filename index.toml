@@ -1341,10 +1341,6 @@ file = "config/endrem.toml"
 hash = "4fdf07c3f2c3887852ff0acc0f8e40b4d7a5d36a20a2e05d3d5a7cf0a455dfc5"
 
 [[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "2d24a83d7e0888d1a9af129aaf114b95372a54387764f9e93c33bc9a3c34ae7f"
-
-[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
@@ -1489,10 +1485,6 @@ file = "config/nutritionalbalance-client.toml"
 hash = "931e946f1db76706bdfae3ba09dfd9fc2d3234352f95f56ad6714bad7fd84572"
 
 [[files]]
-file = "config/oculus.properties"
-hash = "e93040233214c42b7f96de997a634ea46a38414450abb9a66d0122b39f09c24f"
-
-[[files]]
 file = "config/patchouli-client.toml"
 hash = "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068"
 
@@ -1611,14 +1603,6 @@ hash = "792f70862f39864c2347b0f155d38b5ff5e53def23768b56bc60d9077482e254"
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
 hash = "2c3abe0ec27f92b483c77c17ee96925080c8dd80e93c0c1f8a50442e4646d1cc"
-
-[[files]]
-file = "config/sound_physics_remastered/occlusion.properties"
-hash = "386c07d29a2241e657e6191ce36f5b59e551efe95538a0104527432ada3b94cc"
-
-[[files]]
-file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "73aa23233aeb659e13065a2071819278f1549af35fe16ce675d360eb76f9af92"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -2221,6 +2205,11 @@ metafile = true
 [[files]]
 file = "mods/cold-sweat.pw.toml"
 hash = "31f28db749fe2fc62114a11b09845d64848118e1678e4081aea4979d2b7e4b67"
+metafile = true
+
+[[files]]
+file = "mods/config-menus-forge.pw.toml"
+hash = "d7c2a547057823e43871c7a432a95b5a821e4da5f9fa574a53617642e90d1a43"
 metafile = true
 
 [[files]]
