@@ -2331,21 +2331,6 @@ hash = "6d142bc7b026f4cf1e4c3eccfe47815609c3298c027592c34a726caddab68309"
 metafile = true
 
 [[files]]
-file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
-hash = "27b1964e1583318e348f75fcb6a955c47f0d8650fcef62c6a07b7b1891bd2526"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "e6fc479b67717898467d96473d1a88764d2e1fb19ebbd659a7beb2a442933cb6"
-metafile = true
-
-[[files]]
-file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
-hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
-metafile = true
-
-[[files]]
 file = "mods/ender-io.pw.toml"
 hash = "7a525bb7778d8983b6ff8b291b242c34c823a4bed90d375892b7873ff1ab4ba8"
 metafile = true
