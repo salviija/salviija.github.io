@@ -2093,10 +2093,6 @@ file = "mods/Kambrik-6.1.0+1.20.1-forge.jar"
 hash = "a74da3b82e74c8a121c378385c2a3377cd2b9a3c3e36eb1483907e813966a229"
 
 [[files]]
-file = "mods/RoughlyEnoughProfessions-forge-1.20.1-2.0.2.jar"
-hash = "514fe95dedea502abc74ad3b9a6e3ce0c87f6809dfd06e2db6067b371261468f"
-
-[[files]]
 file = "mods/aeroblender.pw.toml"
 hash = "7885154390b9961ed757a8f2178a09ab00f20a90d53fa9ba13851474a3d6fbe8"
 metafile = true
@@ -2406,6 +2402,11 @@ hash = "97e0fd23df99408c20ea1bdfc9df2fceb16f4e06cb4a2839a68ec2ed72588a7b"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
+metafile = true
+
+[[files]]
 file = "mods/kambrik.pw.toml"
 hash = "7208960e604a3a2c183eaf87496e901bfa4b6ef8bdc9eed4afbc237282718bff"
 metafile = true
@@ -2537,11 +2538,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "6545392bb764f310ef15207ef68cb10e358563d7718e8e2a323488543e1c22c2"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "3fce40c9060e26cbf4dab3dac2b14afe803641595e718f2c9935fd9aef93449f"
 metafile = true
 
 [[files]]
