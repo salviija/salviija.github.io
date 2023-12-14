@@ -54,6 +54,9 @@
   "ars_nouveau": {
     "mob_jar": true
   },
+  "tombstone": {
+    "graves": true
+  },
   "delightful": {
     "crop_progress": true
   },
