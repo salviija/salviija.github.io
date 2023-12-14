@@ -1,0 +1,13 @@
+name = "alicemoddedsurvival"
+author = "salviija"
+version = "0.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "aafff4845e1dc205eb98d817aa5787659f257d8c4a67213672168cc90994acab"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"
