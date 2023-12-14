@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "451f20e9b444b07c983f3bea4b5e9f2c9685ac533f409f4bb28b02e716fde9a8"
+
+[[files]]
+file = "_config.yml"
+hash = "21a88c8cd1cd57fa1e8723342612dceb4e6630a79216f57b2fb63e3fb018298d"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
@@ -1523,22 +1531,6 @@ hash = "9a110a7492298a9142be2bd5f541e040cb4657f2810d782e52d1a9c522300820"
 [[files]]
 file = "config/resourceful-config-web.json"
 hash = "d747a93ff5a89c8182f302ee8a85acb3a5a25ac17287396c1b9188c2d0a53864"
-
-[[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "c3637095a26ab03fd9a741796f6a83e000d2030245fb86fa7ed3285b5a6cee3d"
-
-[[files]]
-file = "config/roughlyenoughitems/hints.json"
-hash = "40fd67adc9298c0887df3472e3bc4fea0316d4c52826d9146f5011f016e71779"
-
-[[files]]
-file = "config/roughlyenoughitems/pinyin.properties"
-hash = "c4cfcba65352e668f67c67d1dec57785d51e2b3f9563714197ba3e3a3c812326"
-
-[[files]]
-file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "19ffa3c5296e128cd602f7818ff666774afe2ce4d9ef12dd03f4f03083e047f2"
 
 [[files]]
 file = "config/sanitydim/default.toml"
